@@ -1,0 +1,21 @@
+{
+    "app": {
+        "host": "HOST",
+        "port": "PORT"
+    },
+    "author": {
+        "dev": "AUTHOR"
+    },
+    "redis": {
+        "uri": "REDIS_URI"
+    },
+    "session": {
+        "secret": "SESSION_SECRET",
+        "cookie": {
+            "domain": "SESSION_COOKIE_DOMAIN"
+        }
+    },
+    "githup": {
+        "url": "GITHUP"
+    }
+}
